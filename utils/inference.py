@@ -1,5 +1,5 @@
 import json
-from basemodel import TextDetBase, TextDetBaseDNN
+from utils.basemodel import TextDetBase, TextDetBaseDNN
 import os.path as osp
 from tqdm import tqdm
 import numpy as np
